@@ -1,0 +1,10 @@
+enum SIZES {
+  TITLE_TEXT = 30,
+  MEDIUM_TEXT = 17,
+  SMALL_TEXT = 14,
+  SCREEN_ICON = 32,
+  HEADER_ICON = 30,
+  BOTTOM_ICON = 24,
+}
+
+export default SIZES;
